@@ -1,13 +1,16 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
-
+<div class="section-grid section-grid-tight">
+  <div class="feature-card">
+    <h4>Selected Award</h4>
+    <p class="feature-title">Zhejiang Provincial Outstanding Graduate</p>
+    <p>2023</p>
+  </div>
+  <div class="feature-card">
+    <h4>Recognition</h4>
+    <p>
+      Active reviewer for multiple SSCI and SCI journals in marine policy and marine science.
+    </p>
+    <p>
+      Policy advisory writing has received attention at the provincial or ministerial level.
+    </p>
+  </div>
+</div>

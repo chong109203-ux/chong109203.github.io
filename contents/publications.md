@@ -1,16 +1,21 @@
-#### Submitted
+#### First Author / Corresponding Author
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+1. Dong, Y., & Li, J. (2026). Understanding drivers of coastal fishers' willingness to exit fishing in Zhejiang, China. <strong>Conservation Biology</strong>, e70294.
+2. Dong, Y., Liu, J., & Li, J. (2026). Sacrifices for sustainability? Rethinking vulnerability, consent, and justice under China's summer fishing moratorium. <strong>Sustainable Development</strong>.
+3. Dong, Y., Li, J., & Liu, W. (2025). Coastal fishermen's attitudes toward exit policies and factors influencing their willingness to participate in Zhejiang, China. <strong>Ocean &amp; Coastal Management</strong>, 269, 107817.
+4. Dong, Y., Liu, W., & Li, J. (2025). Chinese policy on fisheries subsidies: Evolution, challenges, and new prospects. <strong>Marine Policy</strong>, 181, 106826.
+5. 董艺翀, 王楚薇, 李京梅. (2026). 气候变化背景下中国蓝色粮仓建设的挑战与对策. <strong>农业经济问题</strong>, 2, 100-113.
+6. 董艺翀, 李京梅, 张风轩, 等. (2026). 兼业行为对渔民退捕意愿的影响及机制: 基于浙江省沿海822份渔户的调查. <strong>资源科学</strong>, 48(03), 694-705.
+7. 董艺翀, 彭勃. (2022). 海洋生态环境治理质量链演进及驱动机理: 基于系统控制视角的分析框架. <strong>浙江海洋大学学报（人文科学版）</strong>, 39(06), 20-28.
+8. 董艺翀, 于霄. (2022). 海洋保护地休闲渔业发展路径研究: 以马鞍列岛为例. <strong>自然保护地</strong>, 2(01), 53-62.
+9. 彭勃, 董艺翀*. (2022). 无居民海岛开发生态损害评估: 以象山县大羊屿岛为例. <strong>生态学报</strong>, 42(18), 7587-7596.
 
-#### Published
+#### Selected Co-authored Publications
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+1. Liu, J., Li, J., & Dong, Y. (2025). Public preferences for marine ecological restoration after oil spills: A choice experiment analysis of the 2021 A Symphony oil spill. <strong>Journal for Nature Conservation</strong>, 127136. <span class="author-note">(3/3)</span>
+2. Liu, W., Dong, Y., & Li, J. (2025). Assessing the impact of physical distance and substitute distance on stated preferences: A choice experiment case from a Chinese bay. <strong>Ocean &amp; Coastal Management</strong>, 270, 107896. <span class="author-note">(2/3)</span>
+3. Qi, X., Zhang, F., Zhang, Y., Zheng, M., & Dong, Y. (2025). How to mitigate high risks to secure more high-quality protein? Joint technological innovation strategies for offshore mariculture considering different power structures. <strong>Aquaculture Reports</strong>, 43, 102869. <span class="author-note">(5/5)</span>
+4. Li, R., Dong, Y., Zhao, Q., Zheng, M., & Lu, X. (2024). Evolution strategies for collaborative governance of marine microplastic pollution from the industry-research integration perspective. <strong>Frontiers in Marine Science</strong>, 11, 1459393. <span class="author-note">(2/5)</span>
+5. Yu, X., & Dong, Y. (2022). Local practice of marine protected areas legislation in China: The case of Zhoushan. <strong>Marine Policy</strong>, 141, 105084. <span class="author-note">(2/2)</span>
+6. 戚昕, 张风轩, 董艺翀, 等. (2025). 奖惩机制何以平衡清洁能源生产与海洋环境扰动？动态均衡下的深海矿产开发策略. <strong>海洋环境科学</strong>, 44(06), 828-838. <span class="author-note">(3/4)</span>
+7. 彭勃, 董艺翀. (2021). 南太平洋岛国特殊海洋保护区建设探析. <strong>太平洋学报</strong>, 29(05), 95-106. <span class="author-note">(2/2)</span>

@@ -1,7 +1,7 @@
 <div class="intro-grid">
   <div class="intro-copy">
     <p class="lead-text">
-      I am <strong>Yichong Dong</strong>, a 2023 cohort PhD student in Applied Economics at the
+      I am <strong>Yichong Dong</strong>, a PhD student in Applied Economics at the
       <strong>Institute of Marine Development, Ocean University of China</strong>.
       My work focuses on the institutional and behavioral foundations of marine sustainability,
       with particular interest in fisheries exit, fishers' livelihood transition, and marine policy evaluation.

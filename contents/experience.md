@@ -17,13 +17,13 @@
       Marine ecological damage compensation standards and institutional design
     </p>
     <p>
-      Major Project, National Social Science Fund of China (NSSFC)
+      National Social Science Fund of China (NSSFC), Major Project
     </p>
     <p>
       Grant No. 16ZDA049
     </p>
     <p>
-      Contributed to policy design.
+      Responsible for policy design.
     </p>
   </div>
   <div class="feature-card">

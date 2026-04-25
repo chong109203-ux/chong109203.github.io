@@ -322,6 +322,10 @@ section .main-body {
     margin-bottom: 1.8rem;
 }
 
+.section-grid-projects {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .section-grid-tight {
     margin-bottom: 0;
 }

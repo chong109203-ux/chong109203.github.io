@@ -3,7 +3,7 @@
 const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'experience', 'publications', 'awards']
-const cache_buster = '20260425-4'
+const cache_buster = '20260425-5'
 
 
 window.addEventListener('DOMContentLoaded', event => {

@@ -1,4 +1,4 @@
-<div class="section-grid">
+<div class="section-grid section-grid-projects">
   <div class="feature-card">
     <h4>Research Project</h4>
     <p class="feature-title">
@@ -13,6 +13,9 @@
     <p>
       The project studies fishers' willingness to exit, household livelihood adaptation, and policy mechanisms for coastal transition.
     </p>
+  </div>
+  <div class="feature-card">
+    <h4>Research Project</h4>
     <p class="feature-title">
       Marine ecological damage compensation standards and institutional design
     </p>

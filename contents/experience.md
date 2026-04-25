@@ -13,6 +13,18 @@
     <p>
       The project studies fishers' willingness to exit, household livelihood adaptation, and policy mechanisms for coastal transition.
     </p>
+    <p class="feature-title">
+      Marine ecological damage compensation standards and institutional design
+    </p>
+    <p>
+      Major Project, National Social Science Fund of China (NSSFC)
+    </p>
+    <p>
+      Grant No. 16ZDA049
+    </p>
+    <p>
+      Contributed to policy design.
+    </p>
   </div>
   <div class="feature-card">
     <h4>Professional Service</h4>

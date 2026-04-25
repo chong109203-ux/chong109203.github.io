@@ -78,6 +78,7 @@ h6 {
 .hero-shell {
     max-width: 48rem;
     padding: 9rem 0 8rem;
+    animation: riseIn 0.95s cubic-bezier(0.2, 0.65, 0.15, 1) both;
 }
 
 .hero-kicker {
@@ -153,6 +154,8 @@ h6 {
     background: rgba(255, 255, 255, 0.78);
     backdrop-filter: blur(14px);
     box-shadow: var(--shadow);
+    animation: riseIn 0.85s cubic-bezier(0.2, 0.65, 0.15, 1) both;
+    animation-delay: 0.12s;
 }
 
 #avatar img {
@@ -237,6 +240,15 @@ section .main-body {
     border-radius: 24px;
     background: var(--surface);
     box-shadow: var(--shadow);
+    transition: transform 0.24s ease, box-shadow 0.24s ease, border-color 0.24s ease;
+}
+
+.info-card:hover,
+.feature-card:hover,
+.contact-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(10, 111, 134, 0.28);
+    box-shadow: 0 18px 48px rgba(7, 50, 71, 0.14);
 }
 
 .info-card,
@@ -271,6 +283,12 @@ section .main-body {
     border: 1px solid rgba(10, 111, 134, 0.12);
     color: var(--accent-deep);
     font-weight: 700;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.tag-cloud span:hover {
+    transform: translateY(-2px);
+    background: rgba(10, 111, 134, 0.16);
 }
 
 .contact-grid {
@@ -315,6 +333,47 @@ section .main-body {
 .feature-title {
     color: var(--accent-deep);
     font-weight: 800;
+}
+
+.main-body h4 {
+    position: relative;
+    padding-left: 0.95rem;
+}
+
+.main-body h4::before {
+    content: "";
+    width: 0.25rem;
+    height: 1em;
+    position: absolute;
+    left: 0;
+    top: 0.18em;
+    border-radius: 999px;
+    background: linear-gradient(180deg, rgba(10, 111, 134, 0.95), rgba(8, 62, 87, 0.95));
+}
+
+@keyframes riseIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .hero-shell,
+    .profile-panel,
+    .info-card,
+    .feature-card,
+    .contact-card,
+    .tag-cloud span {
+        animation: none;
+        transition: none;
+        transform: none;
+    }
 }
 
 .main-body ol,

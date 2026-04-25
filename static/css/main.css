@@ -137,6 +137,12 @@ h6 {
     background: rgba(255, 255, 255, 0.08);
 }
 
+.hero-button.tertiary {
+    border: 1px solid rgba(195, 236, 241, 0.46);
+    color: #ebfbff;
+    background: rgba(10, 111, 134, 0.24);
+}
+
 #avatar {
     position: relative;
     margin-top: -5.5rem;

@@ -48,4 +48,8 @@
     <span class="contact-label">Email 2</span>
     <span class="contact-value">dyc_003@163.com</span>
   </a>
+  <a class="contact-card" href="https://www.researchgate.net/profile/Yichong-Dong" target="_blank" rel="noopener noreferrer">
+    <span class="contact-label">ResearchGate</span>
+    <span class="contact-value">Yichong Dong</span>
+  </a>
 </div>

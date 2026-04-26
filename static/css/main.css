@@ -430,6 +430,13 @@ section .main-body {
     font-size: 0.92rem;
 }
 
+.publication-translation {
+    display: inline-block;
+    margin-top: 0.38rem;
+    color: var(--muted);
+    font-size: 0.95rem;
+}
+
 footer a {
     color: #dff7fb;
     text-decoration: none;

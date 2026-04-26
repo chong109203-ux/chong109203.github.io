@@ -396,6 +396,35 @@ section .main-body {
     padding-left: 0.3rem;
 }
 
+#publications .main-body h4 {
+    margin-top: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+#publications .main-body h4:first-child {
+    margin-top: 0;
+}
+
+#publications .main-body ol {
+    padding-left: 1.15rem;
+}
+
+#publications .main-body li {
+    margin-bottom: 0.72rem;
+    padding-left: 0.25rem;
+    line-height: 1.8;
+}
+
+#publications .main-body li::marker {
+    font-weight: 700;
+    color: var(--accent-deep);
+}
+
+#publications .main-body li + li {
+    padding-top: 0.72rem;
+    border-top: 1px solid rgba(16, 65, 86, 0.08);
+}
+
 .author-note {
     color: var(--muted);
     font-size: 0.92rem;

@@ -431,10 +431,12 @@ section .main-body {
 }
 
 .publication-translation {
-    display: inline-block;
-    margin-top: 0.38rem;
+    display: block;
+    margin-top: 0.5rem;
+    margin-left: 0.1rem;
     color: var(--muted);
     font-size: 0.95rem;
+    line-height: 1.8;
 }
 
 footer a {

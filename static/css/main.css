@@ -439,6 +439,19 @@ section .main-body {
     line-height: 1.8;
 }
 
+.publication-doi {
+    margin-left: 0.42rem;
+    color: var(--accent);
+    font-size: 0.92rem;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.publication-doi:hover {
+    color: var(--accent-deep);
+    text-decoration: underline;
+}
+
 footer a {
     color: #dff7fb;
     text-decoration: none;

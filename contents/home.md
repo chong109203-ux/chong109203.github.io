@@ -52,4 +52,8 @@
     <span class="contact-label">ResearchGate</span>
     <span class="contact-value">Yichong Dong</span>
   </a>
+  <a class="contact-card" href="https://orcid.org/0000-0002-1892-3044" target="_blank" rel="noopener noreferrer">
+    <span class="contact-label">ORCID</span>
+    <span class="contact-value">0000-0002-1892-3044</span>
+  </a>
 </div>
